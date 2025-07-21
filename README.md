@@ -1,16 +1,16 @@
-# 🧠🔍 RAG Application using Streamlit
+#  RAG Application using Streamlit
 
 This project demonstrates a simple yet powerful **Retrieval-Augmented Generation (RAG)** application built with **Python**, **Streamlit**, and **LLMs**. It allows users to ask questions against a custom document knowledge base and receive accurate answers by combining document retrieval and generative AI.
 
 ---
 
-## 🚀 What is RAG?
+##  What is RAG?
 
 **Retrieval-Augmented Generation** is a technique that enhances language models by retrieving relevant context from a document store before generating responses. This overcomes the limitations of static LLM memory and enables domain-specific Q&A.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Upload custom documents (PDF, TXT, etc.)
 - Create embeddings using vector databases (e.g., FAISS)
@@ -20,7 +20,7 @@ This project demonstrates a simple yet powerful **Retrieval-Augmented Generation
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Streamlit** – for web app UI
@@ -31,7 +31,7 @@ This project demonstrates a simple yet powerful **Retrieval-Augmented Generation
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
